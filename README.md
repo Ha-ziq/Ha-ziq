@@ -13,7 +13,7 @@ Currently exploring software engineering practices, scalable applications, and m
 ## About Me
 
 - 🎓 Computer Science Student @ University of Management and Technology
-- 💻 Experienced with C++, JavaScript, React, Node.js, and Django
+- 💻 Experienced with C++, JavaScript, React, Node.js
 - 🛠️ Interested in software engineering, system design, and problem solving
 - 🚀 Building projects to strengthen my understanding of real-world development
 - 📚 Currently learning TypeScript, Next.js, and deeper backend concepts
