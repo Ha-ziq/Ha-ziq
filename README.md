@@ -30,7 +30,7 @@ I believe the best way to learn software engineering is by building, experimenti
 
 <br/>
 
-## Technical Arsenal
+## Technologies & Tools
 
 <div align="center">
 
