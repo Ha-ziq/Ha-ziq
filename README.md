@@ -114,11 +114,11 @@ A desktop implementation of the classic Tetris game built with C++ featuring obj
 
 ### Let's Connect
 
-<a href="#">
+<a href="https://www.linkedin.com/in/haziq-imran492/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:haziqimran492@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
 </a>
 
